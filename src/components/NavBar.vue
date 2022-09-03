@@ -61,7 +61,7 @@ const mobileMenu = () => {
 }
 
 #navbar__logo {
-  background-color: #f81777;
+  background-color: #ff8177;
   background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
   background-size: 100%;
   -webkit-background-clip: text;
